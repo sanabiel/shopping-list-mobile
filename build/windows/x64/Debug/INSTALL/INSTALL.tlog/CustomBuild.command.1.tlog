@@ -1,0 +1,10 @@
+^C:\UI\PBP\SEMESTER 2\SHOPPING_LIST\BUILD\WINDOWS\CMAKEFILES\2EDE6670966A077661EF5BB50BF848DD\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,10 @@
+^C:\UI\PBP\SEMESTER 2\SHOPPING_LIST\BUILD\WINDOWS\CMAKEFILES\2EDE6670966A077661EF5BB50BF848DD\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/UI/PBP/SEMESTER 2/shopping_list/windows" "-BC:/UI/PBP/SEMESTER 2/shopping_list/build/windows" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/UI/PBP/SEMESTER 2/shopping_list/build/windows/shopping_list.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

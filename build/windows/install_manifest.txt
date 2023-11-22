@@ -1,0 +1,11 @@
+C:/UI/PBP/SEMESTER 2/shopping_list/build/windows/runner/Debug/data/icudtl.dat
+C:/UI/PBP/SEMESTER 2/shopping_list/build/windows/runner/Debug/flutter_windows.dll
+C:/UI/PBP/SEMESTER 2/shopping_list/build/windows/runner/Debug/data/flutter_assets/AssetManifest.bin
+C:/UI/PBP/SEMESTER 2/shopping_list/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/UI/PBP/SEMESTER 2/shopping_list/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/UI/PBP/SEMESTER 2/shopping_list/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/UI/PBP/SEMESTER 2/shopping_list/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/UI/PBP/SEMESTER 2/shopping_list/build/windows/runner/Debug/data/flutter_assets/NOTICES
+C:/UI/PBP/SEMESTER 2/shopping_list/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/UI/PBP/SEMESTER 2/shopping_list/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/UI/PBP/SEMESTER 2/shopping_list/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

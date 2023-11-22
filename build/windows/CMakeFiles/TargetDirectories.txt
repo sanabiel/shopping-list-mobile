@@ -1,0 +1,10 @@
+C:/UI/PBP/SEMESTER 2/shopping_list/build/windows/CMakeFiles/INSTALL.dir
+C:/UI/PBP/SEMESTER 2/shopping_list/build/windows/CMakeFiles/ALL_BUILD.dir
+C:/UI/PBP/SEMESTER 2/shopping_list/build/windows/CMakeFiles/ZERO_CHECK.dir
+C:/UI/PBP/SEMESTER 2/shopping_list/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/UI/PBP/SEMESTER 2/shopping_list/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/UI/PBP/SEMESTER 2/shopping_list/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+C:/UI/PBP/SEMESTER 2/shopping_list/build/windows/flutter/CMakeFiles/INSTALL.dir
+C:/UI/PBP/SEMESTER 2/shopping_list/build/windows/runner/CMakeFiles/shopping_list.dir
+C:/UI/PBP/SEMESTER 2/shopping_list/build/windows/runner/CMakeFiles/INSTALL.dir
+C:/UI/PBP/SEMESTER 2/shopping_list/build/windows/runner/CMakeFiles/ALL_BUILD.dir
